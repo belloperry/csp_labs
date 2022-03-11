@@ -12,13 +12,9 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#1" 
-                <li>
-                <li>
-
-                </li>
-                </li>
-                </li>
+                <li><a href="#1">paragraph 1</a></li>
+                <li><a href="#2">paragraph 2</a></li>
+                <li><a href="#3">paragraph 3</a></li>
             </ul>
         </nav>
     </header>
@@ -45,9 +41,9 @@
             </p>
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Samuel_Beckett_Bridge_At_Sunset_Dublin_Ireland_%2897037639%29_%28cropped%29.jpeg"
                 alt="Samuel Beckett Bridge">
-                <figcaption>
-                    Samuel Beckett Bridge_At Sunset Dublin Ireland
-                </figcaption>
+            <figcaption>
+                Samuel Beckett Bridge_At Sunset Dublin Ireland
+            </figcaption>
 
             <p id="2"> There is archaeological debate regarding precisely where and when Dublin originated, with a
                 settlement
@@ -60,15 +56,17 @@
                 British Empire after the Acts of Union in 1800. Following independence in 1922, Dublin became the
                 capital of the
                 Irish Free State, later renamed Ireland.
+            </p>
 
-                Dublin is a contemporary and historical centre for Irish education, arts and culture, administration and
+            <p id="3">Dublin is a contemporary and historical centre for Irish education, arts and culture, administration and
                 industry. As of 2018 the city was listed by the Globalization and World Cities Research Network (GaWC)
                 as a
                 global city, with a ranking of "Alpha minus", which places it as one of the top thirty cities in the
                 world.
             </p>
+        </section>
     </main>
-    </section>
+    
     <footer>
 
     </footer>

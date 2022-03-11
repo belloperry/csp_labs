@@ -12,13 +12,9 @@
     <header>
         <nav>
             <ul>
-                <li><a href="#1" 
-                <li>
-                <li>
-
-                </li>
-                </li>
-                </li>
+                <li><a href="#1">paragraph 1</a></li>
+                <li><a href="#2">paragraph 2</a></li>
+                <li><a href="#3">paragraph 3</a></li>
             </ul>
         </nav>
     </header>
@@ -60,19 +56,16 @@
                 British Empire after the Acts of Union in 1800. Following independence in 1922, Dublin became the
                 capital of the
                 Irish Free State, later renamed Ireland.
-
-                Dublin is a contemporary and historical centre for Irish education, arts and culture, administration and
-                industry. As of 2018 the city was listed by the Globalization and World Cities Research Network (GaWC)
-                as a
-                global city, with a ranking of "Alpha minus", which places it as one of the top thirty cities in the
-                world.
             </p>
+                <p id="3"> Dublin is a contemporary and historical centre for Irish education, arts and culture, administration and
+                    industry. As of 2018 the city was listed by the Globalization and World Cities Research Network (GaWC)
+                    as a
+                    global city, with a ranking of "Alpha minus", which places it as one of the top thirty cities in the
+                    world.
+                </p>  
+            </section>    
     </main>
-    </section>
-    <footer>
-
-    </footer>
-
+   
 </body>
 
 </html>
